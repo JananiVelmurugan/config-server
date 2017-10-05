@@ -14,3 +14,15 @@ public class ConfigServerApplication {
 		SpringApplication.run(ConfigServerApplication.class, args);
 	}
 }
+
+//@Configuration
+//@EnableAutoConfiguration
+//@EnableDiscoveryClient
+//@EnableConfigServer
+//public class ConfigServerApplication {
+//
+//	public static void main(String[] args) {
+//		SpringApplication.run(ConfigServerApplication.class, args);
+//	}
+//
+//}
